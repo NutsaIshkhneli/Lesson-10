@@ -90,3 +90,31 @@
     padding-top: 50px;
 }
 
+.contact-h4 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+    margin-left: 73px;
+}
+
+.h4-contact {
+   color: #5863F8;
+   font-family: 'Poppins', sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+   padding-bottom: 10px;
+   
+}
+.contact-us {
+   font-family: 'Poppins', sans-serif;
+   font-size: 42px;
+   font-weight: bold;
+
+}
+
+.free-support {
+   font-family: 'Poppins', sans-serif;
+   font-size: 42px;
+   font-weight: bold;
+   padding-top: 10px;
+}
