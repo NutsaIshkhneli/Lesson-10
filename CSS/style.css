@@ -328,3 +328,15 @@ input::placeholder {
     width: 200px;
 
 }
+
+.fa-envelope-open-text {
+    color: white;
+}
+
+.fa-phone-volume {
+    color: white;
+}
+
+.fa-map-marker {
+    color: white;
+}
