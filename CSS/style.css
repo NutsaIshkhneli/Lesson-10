@@ -107,14 +107,14 @@
 }
 .contact-us {
    font-family: 'Poppins', sans-serif;
-   font-size: 42px;
+   font-size: 30px;
    font-weight: bold;
 
 }
 
 .free-support {
    font-family: 'Poppins', sans-serif;
-   font-size: 42px;
+   font-size: 30px;
    font-weight: bold;
    padding-top: 10px;
 }
@@ -171,13 +171,19 @@
     width: 352px;
     height: 60px;
     background-color: #5863F8;
-    
+    color: white;
 
 }
 
-input[.name=send] ::placeholder {
+#send {
     color: white;
 }
+
+/* 
+input::placeholder {
+    color: white;
+    padding-left: 150px;
+} */
 
 
 .boxes {
@@ -188,10 +194,6 @@ input[.name=send] ::placeholder {
    
 }
 
-/* .box-info {
-    display: flex;
-    
-} */
 
 .box {
     width: 362px;
@@ -220,5 +222,11 @@ input[.name=send] ::placeholder {
 }
 
 
-
+.photos {
+    display: flex;
+    width: 1234px;
+    flex-direction: row;
+    justify-content:space-between;
+    margin-top: 60px;
+}
 
