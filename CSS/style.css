@@ -118,3 +118,107 @@
    font-weight: bold;
    padding-top: 10px;
 }
+
+
+.contact-info {
+    display: flex;
+    width: 1234px;
+    justify-content: center;
+    margin-top: 60px;
+
+}
+
+
+.description {
+    width: 720px;
+    height: 288px; 
+    background-color: #F8F8F8;  
+    border-color: #E8E8E8;
+  
+}
+
+.personal-info {
+    display: flex;
+    margin-left: 15px;
+}
+
+.subject {
+    width: 352px;
+    height: 60px;
+    background-color: #F8F8F8;  
+    border-color: #E8E8E8;
+    margin-bottom: 15px;
+}
+
+.name {
+    width: 352px;
+    height: 60px;
+    background-color: #F8F8F8;  
+    border-color: #E8E8E8;
+    margin-bottom: 15px;
+}
+
+.email {
+    width: 352px;
+    height: 60px;
+    background-color: #F8F8F8;  
+    border-color: #E8E8E8;
+    margin-bottom: 15px;
+}
+
+.send {
+    
+    width: 352px;
+    height: 60px;
+    background-color: #5863F8;
+    
+
+}
+
+input[.name=send] ::placeholder {
+    color: white;
+}
+
+
+.boxes {
+    display: flex;
+    width: 1234px;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+
+/* .box-info {
+    display: flex;
+    
+} */
+
+.box {
+    width: 362px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.round {
+    background-color: #5863F8;
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.fa-envelope {
+    width: 16px;
+    height: 16px;
+}
+
+
+
+
