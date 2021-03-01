@@ -242,7 +242,7 @@ input::placeholder {
     display: flex;
     flex-direction: column;
     color: white;
-    margin-top: 60px;
+    margin-top: 100px;
 }
 
 .footer-h1 {
@@ -265,4 +265,66 @@ input::placeholder {
     font-family: 'Poppins', sans-serif;
     font-size: 15px;
     padding-bottom: 2px;
+}
+
+
+.mail-icon {
+    display: flex;
+    flex-direction: row;
+}
+
+.phone-icon {
+    display: flex;
+    flex-direction: row;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.location-icon {
+    display: flex;
+    flex-direction: row;
+}
+
+.fa-envelope {
+    color: #5863F8;
+    margin-right: 4px;
+}
+
+.fa-phone {
+    color: #5863F8;
+    margin-right: 4px;
+}
+
+.fa-map-marker-alt {
+    color: #5863F8;
+    margin-right: 4px;
+}
+
+.icons-2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+}
+
+.fa-facebook {
+    color: blue;
+}
+
+.fa-twitter-square {
+    color: aqua;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.fa-google-plus-g {
+    color: red;
+}
+
+
+
+.site {
+    color: #5863F8;
+    margin-right: 20px;
+    width: 200px;
+
 }
